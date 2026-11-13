@@ -5,3 +5,12 @@ Gender : Male
 Email : anirudhh.kansara@bcah.christuniversity.in
 Mobile Number : 8141891018
 Address : Bengaluru, Karnataka
+
+-----------------------------------------------------------------------------------------------------------------
+
+Father's Name : Raj Kumar
+Father's Occupation : Business
+Father's Mobile : 987654321
+Mother's Name : Lakshmi
+Mother's Occupation : Teacher
+Mother's Mobile : 9876543212
